@@ -1,6 +1,6 @@
 ---
-title: "Probabilistic Spatio-Temporal Modeling of Cardiac Deformation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/sdsc_logo.png'>"
+title: "Language-Vision Deep Learning Model for Cancer Segmentation"
+excerpt: "Defined a new probabilistic state-space model, representing cardiacmotion timeseries data by combining Gaussian primitives with Markovian Gaussian Processes<br/><img src='/images/sdsc_logo.png'>"
 collection: portfolio
 ---
 [📄 Report (PDF)](/files/Semester_project_Sannino_SDSC.pdf) | [💻 Code](https://github.com/sofiasannino/Cardiac-Deformation-SDSC)
