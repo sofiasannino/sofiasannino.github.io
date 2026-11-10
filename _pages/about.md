@@ -12,7 +12,12 @@ When I decided to study Mathematical Engineering I read a book called "Atlas of 
 
 Time has passed since then and the potential of AI is now huge, just like the gap to fully understand it, interpret it and deploy it to improve life conditions for everyone. 
 I would like to contribute to fill this gap, hoping that one day we will be able to know exactly what happens during training, just like the numerical algorithms I used to focus on during the Bachelor, and fully interpret models, as well as to put humans first when implementing them.
+More practically, my interest in interpretability is declined in the following way: 
+- understand if deep learning models can develop a true understanding of physics, thus building physically consistent latent representations. 
+- uncertainty estimation and interpretability methods for generative models. 
+
+
 No more black boxes.    
 
-<br/><img src='/images/Curious Glimpse into a Mystery Box.png'>"
+<br/><img src='/images/Curious Glimpse into a Mystery Box.png'>
 
