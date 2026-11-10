@@ -1,5 +1,5 @@
 ---
-title: "Language-Vision Deep Learning Model for Cancer Segmentation"
+title: "Probabilistic Spatio-Temporal Modeling of Cardiac Deformation"
 excerpt: "Defined a new probabilistic state-space model, representing cardiacmotion timeseries data by combining Gaussian primitives with Markovian Gaussian Processes<br/><img src='/images/sdsc_logo.png'>"
 collection: portfolio
 ---

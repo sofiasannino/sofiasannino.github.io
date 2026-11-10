@@ -1,17 +1,21 @@
 ---
 title: "Language-Vision Deep Learning Model for Cancer Segmentation"
-excerpt: "Defined a newprobabilistic state-space model, representing cardiacmotion timeseries data by combining Gaussian primitives with Markovian Gaussian Processes<br/><img src='/images/sdsc_logo.png'>"
+excerpt: "Designed a PyTorch vision-language lesion segmentation model on CT scans, fusing radiologist text embeddings (BERT) with image features<br/><img src='/images/logo_gustave_roussy.png'>"
 collection: portfolio
 ---
-[📄 Report (PDF)](/files/Semester_project_Sannino_SDSC.pdf) | [💻 Code](https://github.com/sofiasannino/Cardiac-Deformation-SDSC)
+[📄 Report (PDF)](/files/report_LSMS.pdf) | [💻 Code](https://github.com/sofiasannino/LVModel-Cancer-Segmentation)
 
-In this work, we define the theoretical framework for a cardiac deformation model that
-leverages temporal Gaussian process priors to correct control-points prediction on cardiac
-volumes and make use of Gaussian splatting as rendering technique, to confront
-predicted medical images and ground-truth.
-Furthermore, we propose a geometry-based deterministic algorithm for efficient and accurate
-control-points extraction from cardiac segmentation masks, to provide valid pseudo
-ground-truth control points for the pre-training of the deformation model’s first stage,
-a coordinate regression network.
-Finally, we show the results of the training and inference experiments on the pre-training
-of the coordinate regression network, conducted on the ACDC [1] dataset.
+Correctly identifying tumor lesions on Computed Tomography
+(CT) scans is a crucial task in cancer diagnosis and treatment.
+Developing and improving deep learning models to
+automate tumor segmentation could significantly reduce diagnostic
+errors and the time required to obtain a diagnosis.
+To address this issues, we designed a comprehensive
+pipeline for processing language–vision medical datasets
+and a 3D vision–language segmentation model comprising
+of a Language-Guided vision encoder with a Scale-aware Vision–
+Language Attention module, a Full-scale decoder, and
+a loss combining segmentation errors and contrastive errors.
+We compare and validate our approach on a model previously
+built at Gustave Roussy on abdominal CT scans with
+liver cancer lesions.
