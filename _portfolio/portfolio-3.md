@@ -1,6 +1,6 @@
 ---
 title: "Learning Matches for Mesh Deformation via REINFORCE"
-excerpt: "Co-designed a new mesh deformation pipeline in which points correspondences are learned as a policy.  <br/><img src='/images/cvlab_logo.png'>"
+excerpt: "Co-designed a new mesh deformation pipeline in which points correspondences are learned as a policy.  <br/><img src='/images/meshdeform.png'>"
 collection: portfolio
 ---
 [📄 Report (PDF)](/files/RL_Project__Report.pdf) | [💻 Code](https://github.com/denizmsayin/rl-mesh-deformation)

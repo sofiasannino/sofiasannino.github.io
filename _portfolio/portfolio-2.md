@@ -1,6 +1,6 @@
 ---
 title: "Language-Vision Deep Learning Model for Cancer Segmentation"
-excerpt: "Designed a PyTorch vision-language lesion segmentation model on CT scans, fusing radiologist text embeddings (BERT) with image features.  <br/><img src='/images/logo_gustave_roussy.png'>"
+excerpt: "Designed a PyTorch vision-language lesion segmentation model on CT scans, fusing radiologist text embeddings (BERT) with image features.   <br/><img src='/images/logo_gustave_roussy.png'>"
 collection: portfolio
 ---
 [📄 Report (PDF)](/files/report_LSMS.pdf) | [💻 Code](https://github.com/sofiasannino/LVModel-Cancer-Segmentation)
